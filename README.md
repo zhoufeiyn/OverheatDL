@@ -7,7 +7,7 @@ Overheating defects of high-voltage transmission line components are threatening
 
 ## Localization of Power Devices based on Faster R-CNN
 ![](assets/locate.png)
-- Building an infrared image dataset for power transmission lines based on the COCO Dataset structure [link](https://github.com/zhoufeiyn/OverheatDL/releases/tag/dataset).
+- Building an infrared image dataset for power transmission lines based on the COCO Dataset structure [download link](https://github.com/zhoufeiyn/OverheatDL/releases/tag/dataset).
 - Training a Faster R-CNN object detection method to realize the localization of power devices.
 
   
